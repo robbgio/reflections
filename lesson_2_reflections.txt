@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 	By comparing the staging area with the most recent commit you can verify that only one logical change was made.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Trying experiments where you want to see how it plays out after a number of changes.  To make different versions of the same game for different audiences or to test to see which version people like.
